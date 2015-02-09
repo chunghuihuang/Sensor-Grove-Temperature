@@ -11,7 +11,7 @@
 * Grove 4-Digit-Display 
 * Grove - Universal 4 Pin 20cm Unbuckled Cable
 
-![圖1：溫度感測器實作採用零件 ](/Users/Joker/Downloads/Arch pro shield and sensor.jpg)
+![圖1：溫度感測器實作採用零件 ](images/63.pic_hd.jpg)
 
 ## 溫度感測器實作步驟
 
@@ -20,7 +20,7 @@
 * 將四位數LED顯示器接 Universal 4 pin Cable 線，並接在 Base Shield 的 UART
 * 記得將 Base Shield 切換至 5V VCC 
 
-![圖2：完成圖](/Users/Joker/Downloads/Temp_Digit Display_Part.jpg)
+![圖2：完成圖](images/64.pic_hd.jpg)
 
 ## 撰寫程式碼
 
@@ -57,7 +57,7 @@ int main()
 ## 即時溫度監控顯示畫面 
 
 * 由程式碼定義 Arch Pro 的第二顆 Led 紅燈閃爍來簡易判斷是否有正常執行運作。
-![圖3：溫度監控即時顯示LED實作](/Users/Joker/Downloads/temperature_detector_prototype.jpg)
+![圖3：溫度監控即時顯示LED實作](images/65.pic_hd.jpg)
 
 ## 參考資源
 * http://developer.mbed.org/users/djbottrill/code/Grove_Thermometer/
